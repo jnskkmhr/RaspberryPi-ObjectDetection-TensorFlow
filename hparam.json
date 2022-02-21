@@ -1,0 +1,6 @@
+{
+    "learning_rate" : 0.01, 
+    "batch_size" : 16, 
+    "train_steps" : 100, 
+    "eval_steps" : 1
+}
